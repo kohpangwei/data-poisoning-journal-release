@@ -81,11 +81,11 @@ To set up the directory structure, you might want to edit the following files:
   We make use of several helper functions for evaluating defenses and training models.
 
 Other files:
-- prettyPrint.m
+- `prettyPrint.m`
 
   Helper file to pretty-print a struct.
 
-- randRound.m
+- `randRound.m`
 
   Helper file to randomly round a real-valued vector to an integer-valued vector.
 
